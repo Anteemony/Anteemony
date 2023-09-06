@@ -5,8 +5,7 @@ I'm Anthony,
 - 🔭 I'm really interested in AI. I spend most of my time on Machine Learning and Data Science.
 - 📫 How to reach me: https://www.linkedin.com/in/anteemony/
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anteemony)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anteemony&theme=transparent)](https://git.io/streak-stats)
 
 <!--
 **Anteemony/Anteemony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
