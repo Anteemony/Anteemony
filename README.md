@@ -1,8 +1,7 @@
-### Well, hello 👋
+### Anteemony
 
 AI,ML,DL
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anteemony&theme=transparent)](https://git.io/streak-stats) 
 
 <!--
 **Anteemony/Anteemony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
